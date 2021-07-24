@@ -1,0 +1,57 @@
+.formContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+.form div {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.form div label {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.form div input {
+    width: 350px;
+    height: 30px;
+    box-shadow: none;
+    border: 1px solid #000;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+.form div textarea {
+    max-width: 350px;
+    resize: vertical;
+    width: 100%;
+    height: 100px;
+    box-shadow: none;
+    border: 1px solid #000;
+    border-radius: 4px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.form button {
+    height: 40px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.reviewList {
+    margin-top: 15px;
+}
