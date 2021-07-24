@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img alt="CRUD" src="https://github.com/VitorHugoAntunes/readmeteste/blob/main/crudPresentation.gif" width="720px">
+  <img alt="CRUD" src="https://github.com/VitorHugoAntunes/FullStackCRUD/blob/main/crudPresentation.gif" width="720px">
 </p>
 
 <h2 id="installation">Installation</h2>	
